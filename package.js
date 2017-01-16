@@ -3,7 +3,7 @@ var path = Npm.require('path');
 
 Package.describe({
   "summary": "Render your app before the DDP connection even comes alive - magic?",
-  "version": "2.17.0",
+  "version": "2.18.0",
   "git": "https://github.com/datamaker/fast-render",
   "name": "datamaker:fast-render"
 });
